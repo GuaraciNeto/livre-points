@@ -1,14 +1,14 @@
 {
-  "TITLE": "Vol",
+  "TITLE": "Livre Points",
   "TOTAL": "Total:",
   "LOGIN_PLACEHOLDER": "Conta ou nome",
   "LOGIN_BUTTON": "Log in",
-  "TABLE_FROM": "From",
-  "TABLE_AMOUNT": "Amount",
-  "TABLE_COIN": "Coin",
-  "TABLE_DATE": "Date",
-  "ERROR_ACCOUNT": "Incorrect account",
-  "ERROR_ALIAS": "Unknown alias",
-  "ERROR_ASSET": "Unable to get asset transfers",
-  "ERROR_CURRENCY": "Unable to get currency transfers"
+  "TABLE_FROM": "De",
+  "TABLE_AMOUNT": "Quantidade",
+  "TABLE_COIN": "Moeda",
+  "TABLE_DATE": "Data",
+  "ERROR_ACCOUNT": "Conta Incorreta",
+  "ERROR_ALIAS": " Alias Desconhecido",
+  "ERROR_ASSET": "Impossível transferir asset",
+  "ERROR_CURRENCY": "Não foi possível transferir a moeda"
 }
