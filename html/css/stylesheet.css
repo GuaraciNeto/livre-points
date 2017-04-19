@@ -1,0 +1,22 @@
+.logo {
+  padding:15px;
+}
+
+.login-form {
+  max-width:500px;
+  margin:auto;
+}
+
+.transactions {
+  max-width:800px;
+  max-height:300px;
+  margin:auto;
+  overflow:auto;
+}
+
+.total {
+  max-width:350px;
+  margin:auto;
+  padding:5px;
+  margin-bottom:10px;
+}
